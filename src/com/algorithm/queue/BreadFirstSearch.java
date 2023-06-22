@@ -1,4 +1,4 @@
-package Queue;
+package com.algorithm.queue;
 
 import java.io.BufferedReader;
 import java.io.IOException;

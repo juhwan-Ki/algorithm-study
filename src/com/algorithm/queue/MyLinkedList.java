@@ -1,4 +1,4 @@
-package Queue;
+package com.algorithm.queue;
 
 public class MyLinkedList {
     private Node start;
