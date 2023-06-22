@@ -3,27 +3,22 @@ package com.algorithm.greedy;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.*;
+import java.util.StringTokenizer;
 
-public class Bk11047 {
+public class Bk2875 {
     public static void main(String[] args) throws IOException {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(reader.readLine());
         int n = Integer.parseInt(st.nextToken());
+        int m = Integer.parseInt(st.nextToken());
         int k = Integer.parseInt(st.nextToken());
-        int cnt = 0;
+        int team = 0;
 
-        int[] coins = new int[n];
-        for (int i = 0; i < n; i++) {
-            coins[i] = Integer.parseInt(reader.readLine());
+        while (n >= 2 && m >= 1 && n + m -3 >= k){
+            n -= 2;
+            m--;
+            team++;
         }
-
-        for (int i = n -1; i >= 0; i--) {
-            if (k >= coins[i]) {
-                cnt += k / coins[i];
-                k %= coins[i];
-            }
-        }
-        System.out.println(cnt);
+        System.out.println(team);
     }
 }
