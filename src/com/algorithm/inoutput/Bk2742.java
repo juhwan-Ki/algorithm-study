@@ -1,13 +1,13 @@
-package inoutput;
+package com.algorithm.inoutput;
 
 import java.util.Scanner;
 
-public class Bk2741 {
+public class Bk2742 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();
 
-        for (int i = 1; i <= num; i++) {
+        for (int i = num; i >= 1; i--) {
             System.out.println(i);
         }
     }

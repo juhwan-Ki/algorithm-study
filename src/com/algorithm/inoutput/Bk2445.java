@@ -1,4 +1,4 @@
-package inoutput;
+package com.algorithm.inoutput;
 
 import java.io.BufferedReader;
 import java.io.IOException;
