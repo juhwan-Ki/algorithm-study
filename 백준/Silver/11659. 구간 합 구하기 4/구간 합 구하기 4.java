@@ -11,30 +11,21 @@ public class Main {
         int m = Integer.parseInt(st.nextToken());
 
         // 합 배열 생성
-        int[] sumArray = new int[n];
+        int[] sumArray = new int[n + 1];
         st = new StringTokenizer(reader.readLine());
 
-        for (int i = 0; i < n; i++) {
-            if(i == 0) {
-                sumArray[i] = Integer.parseInt(st.nextToken());
-            } else {
-                sumArray[i] = sumArray[i - 1] + Integer.parseInt(st.nextToken());
-            }
+        for (int i = 1; i <= n; i++) {
+            sumArray[i] = sumArray[i - 1] + Integer.parseInt(st.nextToken());
         }
 
         // 구간합 구하기
         for (int i = 0; i < m; i++) {
             st = new StringTokenizer(reader.readLine());
 
-            int start = Integer.parseInt(st.nextToken()) - 2;
-            int end = Integer.parseInt(st.nextToken()) - 1;
+            int start = Integer.parseInt(st.nextToken());
+            int end = Integer.parseInt(st.nextToken());
 
-            // 0보다 작으면
-            if(start < 0) {
-                System.out.println(sumArray[end]);
-            } else {
-                System.out.println(sumArray[end] - sumArray[start]);
-            }
+            System.out.println(sumArray[end] - sumArray[start - 1]);
         }
     }
 }
