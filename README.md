@@ -1,0 +1,100 @@
+# 
+# 백준 & 프로그래머스 문제 풀이 목록
+
+프로그래머스의 경우, 푼 문제 목록에 대한 마이그레이션이 필요합니다.
+
+### 🚀 src
+| 문제번호 | 링크 |
+| ----- | ----- |
+### 🚀 com
+| 문제번호 | 링크 |
+| ----- | ----- |
+### 🚀 algorithm
+| 문제번호 | 링크 |
+| ----- | ----- |
+|bf|[링크](./src/com/algorithm/bf/Bk2503.java)|
+|boj|[링크](./src/com/algorithm/boj/Boj5904.java)|
+|codeup|[링크](./src/com/algorithm/codeup/Codeup1030.java)|
+|dp|[링크](./src/com/algorithm/dp/Fibonacci.java)|
+|graph|[링크](./src/com/algorithm/graph/Bk1260.java)|
+|greedy|[링크](./src/com/algorithm/greedy/Bk11047.java)|
+|inoutput|[링크](./src/com/algorithm/inoutput/Bk2441.java)|
+|programmers|[링크](./src/com/algorithm/programmers/Pro86051.java)|
+|queue|[링크](./src/com/algorithm/queue/ListComparison.java)|
+|string|[링크](./src/com/algorithm/string/FindChar.java)|
+## 📚 백준
+### 🚀 Bronze
+| 문제번호 | 링크 |
+| ----- | ----- |
+|1037. 약수|[링크](./%EB%B0%B1%EC%A4%80/Bronze/1037.%E2%80%85%EC%95%BD%EC%88%98/%EC%95%BD%EC%88%98.java)|
+|10808. 알파벳 개수|[링크](./%EB%B0%B1%EC%A4%80/Bronze/10808.%E2%80%85%EC%95%8C%ED%8C%8C%EB%B2%B3%E2%80%85%EA%B0%9C%EC%88%98/README.md)|
+|10871. X보다 작은 수|[링크](./%EB%B0%B1%EC%A4%80/Bronze/10871.%E2%80%85X%EB%B3%B4%EB%8B%A4%E2%80%85%EC%9E%91%EC%9D%80%E2%80%85%EC%88%98/X%EB%B3%B4%EB%8B%A4%E2%80%85%EC%9E%91%EC%9D%80%E2%80%85%EC%88%98.java)|
+|10989. 수 정렬하기 3|[링크](./%EB%B0%B1%EC%A4%80/Bronze/10989.%E2%80%85%EC%88%98%E2%80%85%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%E2%80%853/%EC%88%98%E2%80%85%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%E2%80%853.java)|
+|1546. 평균|[링크](./%EB%B0%B1%EC%A4%80/Bronze/1546.%E2%80%85%ED%8F%89%EA%B7%A0/%ED%8F%89%EA%B7%A0.java)|
+|1978. 소수 찾기|[링크](./%EB%B0%B1%EC%A4%80/Bronze/1978.%E2%80%85%EC%86%8C%EC%88%98%E2%80%85%EC%B0%BE%EA%B8%B0/%EC%86%8C%EC%88%98%E2%80%85%EC%B0%BE%EA%B8%B0.java)|
+|2577. 숫자의 개수|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2577.%E2%80%85%EC%88%AB%EC%9E%90%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98/%EC%88%AB%EC%9E%90%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98.java)|
+|2747. 피보나치 수|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2747.%E2%80%85%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%E2%80%85%EC%88%98/README.md)|
+|2750. 수 정렬하기|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2750.%E2%80%85%EC%88%98%E2%80%85%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0/%EC%88%98%E2%80%85%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.java)|
+|2752. 세수정렬|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2752.%E2%80%85%EC%84%B8%EC%88%98%EC%A0%95%EB%A0%AC/%EC%84%B8%EC%88%98%EC%A0%95%EB%A0%AC.java)|
+### 🚀 Gold
+| 문제번호 | 링크 |
+| ----- | ----- |
+|5904. Moo 게임|[링크](./%EB%B0%B1%EC%A4%80/Gold/5904.%E2%80%85Moo%E2%80%85%EA%B2%8C%EC%9E%84/README.md)|
+### 🚀 Silver
+| 문제번호 | 링크 |
+| ----- | ----- |
+|1003. 피보나치 함수|[링크](./%EB%B0%B1%EC%A4%80/Silver/1003.%E2%80%85%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%E2%80%85%ED%95%A8%EC%88%98/README.md)|
+|1026. 보물|[링크](./%EB%B0%B1%EC%A4%80/Silver/1026.%E2%80%85%EB%B3%B4%EB%AC%BC/README.md)|
+|10815. 숫자 카드|[링크](./%EB%B0%B1%EC%A4%80/Silver/10815.%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%EC%B9%B4%EB%93%9C/README.md)|
+|10816. 숫자 카드 2|[링크](./%EB%B0%B1%EC%A4%80/Silver/10816.%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%EC%B9%B4%EB%93%9C%E2%80%852/README.md)|
+|10828. 스택|[링크](./%EB%B0%B1%EC%A4%80/Silver/10828.%E2%80%85%EC%8A%A4%ED%83%9D/README.md)|
+|10845. 큐|[링크](./%EB%B0%B1%EC%A4%80/Silver/10845.%E2%80%85%ED%81%90/README.md)|
+|10867. 중복 빼고 정렬하기|[링크](./%EB%B0%B1%EC%A4%80/Silver/10867.%E2%80%85%EC%A4%91%EB%B3%B5%E2%80%85%EB%B9%BC%EA%B3%A0%E2%80%85%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0/README.md)|
+|11047. 동전 0|[링크](./%EB%B0%B1%EC%A4%80/Silver/11047.%E2%80%85%EB%8F%99%EC%A0%84%E2%80%850/README.md)|
+|11057. 오르막 수|[링크](./%EB%B0%B1%EC%A4%80/Silver/11057.%E2%80%85%EC%98%A4%EB%A5%B4%EB%A7%89%E2%80%85%EC%88%98/%EC%98%A4%EB%A5%B4%EB%A7%89%E2%80%85%EC%88%98.java)|
+|1158. 요세푸스 문제|[링크](./%EB%B0%B1%EC%A4%80/Silver/1158.%E2%80%85%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%E2%80%85%EB%AC%B8%EC%A0%9C/README.md)|
+|11650. 좌표 정렬하기|[링크](./%EB%B0%B1%EC%A4%80/Silver/11650.%E2%80%85%EC%A2%8C%ED%91%9C%E2%80%85%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0/README.md)|
+|11651. 좌표 정렬하기 2|[링크](./%EB%B0%B1%EC%A4%80/Silver/11651.%E2%80%85%EC%A2%8C%ED%91%9C%E2%80%85%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%E2%80%852/%EC%A2%8C%ED%91%9C%E2%80%85%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%E2%80%852.java)|
+|11659. 구간 합 구하기 4|[링크](./%EB%B0%B1%EC%A4%80/Silver/11659.%E2%80%85%EA%B5%AC%EA%B0%84%E2%80%85%ED%95%A9%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0%E2%80%854/README.md)|
+|11727. 2×n 타일링 2|[링크](./%EB%B0%B1%EC%A4%80/Silver/11727.%E2%80%852%C3%97n%E2%80%85%ED%83%80%EC%9D%BC%EB%A7%81%E2%80%852/README.md)|
+|1181. 단어 정렬|[링크](./%EB%B0%B1%EC%A4%80/Silver/1181.%E2%80%85%EB%8B%A8%EC%96%B4%E2%80%85%EC%A0%95%EB%A0%AC/README.md)|
+|1260. DFS와 BFS|[링크](./%EB%B0%B1%EC%A4%80/Silver/1260.%E2%80%85DFS%EC%99%80%E2%80%85BFS/README.md)|
+|1316. 그룹 단어 체커|[링크](./%EB%B0%B1%EC%A4%80/Silver/1316.%E2%80%85%EA%B7%B8%EB%A3%B9%E2%80%85%EB%8B%A8%EC%96%B4%E2%80%85%EC%B2%B4%EC%BB%A4/%EA%B7%B8%EB%A3%B9%E2%80%85%EB%8B%A8%EC%96%B4%E2%80%85%EC%B2%B4%EC%BB%A4.java)|
+|1406. 에디터|[링크](./%EB%B0%B1%EC%A4%80/Silver/1406.%E2%80%85%EC%97%90%EB%94%94%ED%84%B0/README.md)|
+|14501. 퇴사|[링크](./%EB%B0%B1%EC%A4%80/Silver/14501.%E2%80%85%ED%87%B4%EC%82%AC/README.md)|
+|1459. 걷기|[링크](./%EB%B0%B1%EC%A4%80/Silver/1459.%E2%80%85%EA%B1%B7%EA%B8%B0/%EA%B1%B7%EA%B8%B0.java)|
+|1463. 1로 만들기|[링크](./%EB%B0%B1%EC%A4%80/Silver/1463.%E2%80%851%EB%A1%9C%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/1%EB%A1%9C%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0.java)|
+|17829. 222－풀링|[링크](./%EB%B0%B1%EC%A4%80/Silver/17829.%E2%80%85222%EF%BC%8D%ED%92%80%EB%A7%81/222%EF%BC%8D%ED%92%80%EB%A7%81.java)|
+|1874. 스택 수열|[링크](./%EB%B0%B1%EC%A4%80/Silver/1874.%E2%80%85%EC%8A%A4%ED%83%9D%E2%80%85%EC%88%98%EC%97%B4/%EC%8A%A4%ED%83%9D%E2%80%85%EC%88%98%EC%97%B4.java)|
+|1912. 연속합|[링크](./%EB%B0%B1%EC%A4%80/Silver/1912.%E2%80%85%EC%97%B0%EC%86%8D%ED%95%A9/%EC%97%B0%EC%86%8D%ED%95%A9.java)|
+|1920. 수 찾기|[링크](./%EB%B0%B1%EC%A4%80/Silver/1920.%E2%80%85%EC%88%98%E2%80%85%EC%B0%BE%EA%B8%B0/README.md)|
+|1931. 회의실 배정|[링크](./%EB%B0%B1%EC%A4%80/Silver/1931.%E2%80%85%ED%9A%8C%EC%9D%98%EC%8B%A4%E2%80%85%EB%B0%B0%EC%A0%95/%ED%9A%8C%EC%9D%98%EC%8B%A4%E2%80%85%EB%B0%B0%EC%A0%95.java)|
+|1940. 주몽|[링크](./%EB%B0%B1%EC%A4%80/Silver/1940.%E2%80%85%EC%A3%BC%EB%AA%BD/%EC%A3%BC%EB%AA%BD.java)|
+|2164. 카드2|[링크](./%EB%B0%B1%EC%A4%80/Silver/2164.%E2%80%85%EC%B9%B4%EB%93%9C2/README.md)|
+|2178. 미로 탐색|[링크](./%EB%B0%B1%EC%A4%80/Silver/2178.%E2%80%85%EB%AF%B8%EB%A1%9C%E2%80%85%ED%83%90%EC%83%89/README.md)|
+|2606. 바이러스|[링크](./%EB%B0%B1%EC%A4%80/Silver/2606.%E2%80%85%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4/README.md)|
+|2644. 촌수계산|[링크](./%EB%B0%B1%EC%A4%80/Silver/2644.%E2%80%85%EC%B4%8C%EC%88%98%EA%B3%84%EC%82%B0/%EC%B4%8C%EC%88%98%EA%B3%84%EC%82%B0.java)|
+|2667. 단지번호붙이기|[링크](./%EB%B0%B1%EC%A4%80/Silver/2667.%E2%80%85%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0/README.md)|
+|2751. 수 정렬하기 2|[링크](./%EB%B0%B1%EC%A4%80/Silver/2751.%E2%80%85%EC%88%98%E2%80%85%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%E2%80%852/README.md)|
+|2941. 크로아티아 알파벳|[링크](./%EB%B0%B1%EC%A4%80/Silver/2941.%E2%80%85%ED%81%AC%EB%A1%9C%EC%95%84%ED%8B%B0%EC%95%84%E2%80%85%EC%95%8C%ED%8C%8C%EB%B2%B3/README.md)|
+|5397. 키로거|[링크](./%EB%B0%B1%EC%A4%80/Silver/5397.%E2%80%85%ED%82%A4%EB%A1%9C%EA%B1%B0/%ED%82%A4%EB%A1%9C%EA%B1%B0.java)|
+|9012. 괄호|[링크](./%EB%B0%B1%EC%A4%80/Silver/9012.%E2%80%85%EA%B4%84%ED%98%B8/%EA%B4%84%ED%98%B8.java)|
+|9655. 돌 게임|[링크](./%EB%B0%B1%EC%A4%80/Silver/9655.%E2%80%85%EB%8F%8C%E2%80%85%EA%B2%8C%EC%9E%84/%EB%8F%8C%E2%80%85%EA%B2%8C%EC%9E%84.java)|
+## 📚 프로그래머스
+### 🚀 1
+| 문제번호 | 링크 |
+| ----- | ----- |
+|12916. 문자열 내 p와 y의 개수|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12916.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EB%82%B4%E2%80%85p%EC%99%80%E2%80%85y%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98/README.md)|
+|12943. 콜라츠 추측|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12943.%E2%80%85%EC%BD%9C%EB%9D%BC%EC%B8%A0%E2%80%85%EC%B6%94%EC%B8%A1/README.md)|
+|12947. 하샤드 수|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12947.%E2%80%85%ED%95%98%EC%83%A4%EB%93%9C%E2%80%85%EC%88%98/README.md)|
+|86491. 최소직사각형|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/86491.%E2%80%85%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95.java)|
+### 🚀 2
+| 문제번호 | 링크 |
+| ----- | ----- |
+|12936. 줄 서는 방법|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/2/12936.%E2%80%85%EC%A4%84%E2%80%85%EC%84%9C%EB%8A%94%E2%80%85%EB%B0%A9%EB%B2%95/README.md)|
+|12939. 최댓값과 최솟값|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/2/12939.%E2%80%85%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B3%BC%E2%80%85%EC%B5%9C%EC%86%9F%EA%B0%92/README.md)|
+|12952. N－Queen|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/2/12952.%E2%80%85N%EF%BC%8DQueen/N%EF%BC%8DQueen.java)|
+|1844. 게임 맵 최단거리|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/2/1844.%E2%80%85%EA%B2%8C%EC%9E%84%E2%80%85%EB%A7%B5%E2%80%85%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC/%EA%B2%8C%EC%9E%84%E2%80%85%EB%A7%B5%E2%80%85%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC.java)|
+|42839. 소수 찾기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/2/42839.%E2%80%85%EC%86%8C%EC%88%98%E2%80%85%EC%B0%BE%EA%B8%B0/%EC%86%8C%EC%88%98%E2%80%85%EC%B0%BE%EA%B8%B0.java)|
+|42860. 조이스틱|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/2/42860.%E2%80%85%EC%A1%B0%EC%9D%B4%EC%8A%A4%ED%8B%B1/README.md)|
+|43165. 타겟 넘버|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/2/43165.%E2%80%85%ED%83%80%EA%B2%9F%E2%80%85%EB%84%98%EB%B2%84/README.md)|
